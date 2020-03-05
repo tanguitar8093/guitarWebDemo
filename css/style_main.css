@@ -1,0 +1,471 @@
+/*字型相關*/
+.articleFont_1 {
+	font-family: "Microsoft JhengHei";
+	font-size: 2vw;
+	font-weight: 700;
+	color: #2F4F4F;
+	line-height: 2.2vw;
+	letter-spacing: 0.3vw;
+}
+.articleFont_2 {
+	font-family: "Microsoft JhengHei";
+	font-size: 0.9vw;
+	font-weight: 500;
+	color: gray;
+	/*text-align: center;*/
+	line-height: 2vw;
+	letter-spacing: 0.2vw;
+	margin:0.8vw;	
+}
+.articleFont_3 {
+	font-family: "Microsoft JhengHei";
+	font-size: 1.2vw;
+	font-weight: 500;
+	color: #7c6853;
+	line-height: 1.6vw;
+	/* 設定文字行距 */
+	letter-spacing: 0.2vw;	
+}
+.articleformat_1{
+	margin-left:15%;
+	margin-right:15%;
+	margin-top:2vw;
+	margin-bottom:2vw; 
+}
+.articleformat_2{
+	text-align: center;
+	margin-left:15%;
+	margin-right:15%;	
+}
+.articleformat_3{
+	/*margin-left:15%;*/
+	font-size: 20px;
+}
+
+.font {
+	font-family: "Microsoft JhengHei";
+	font-size: 1.2vw;
+	font-weight: 600;
+	color: gray;
+}
+
+.font2 {
+	font-family: "Microsoft JhengHei";
+	font-size: 1.2vw;
+	font-weight: 700;
+	color: gray;
+}
+
+.font3 {
+	font-family: "Microsoft JhengHei";
+	font-size: 1.2vw;
+	font-weight: 700;
+	color: black;
+}
+
+.font4 {
+	font-family: "Microsoft JhengHei";
+	font-size: 3vw;
+	font-weight: 500;
+	color: white;
+	letter-spacing: 0.3vw;
+	text-align: center;
+}
+
+.font5 {
+	font-family: "Microsoft JhengHei";
+	font-size: 1vw;
+	font-weight: 700;
+	color: #2F4F4F;
+	letter-spacing: 0.3vw;
+	/*text-align: center;*/
+}
+
+.font6 {
+	font-family: "Microsoft JhengHei";
+	font-size: 0.8vw;
+	font-weight: 500;
+	color: gray;
+	letter-spacing: 0.3vw;
+	/*text-align: center;*/
+}
+
+.font7 {
+	font-family: "Microsoft JhengHei";
+	font-size: 1vw;
+	font-weight: 700;
+	color: #7c6853;
+	line-height: 1.2vw;
+	/* 設定文字行距 */
+	letter-spacing: 0.2vw;	
+}
+
+.font8 {
+	font-family: "Microsoft JhengHei";
+	font-size: 1.3vw;
+	font-weight: 700;
+	color: #7a736b;
+	line-height: 1vw;
+/*	text-align: center;*/
+	/* 設定文字行距 */
+	letter-spacing: 0.2vw;	
+}
+.font9 {
+	font-family: "Microsoft JhengHei";
+	font-size: 1vw;
+	font-weight: 500;
+	color: white;
+	line-height: 1vw;
+	/* 設定文字行距 */
+	letter-spacing: 0.2vw;	
+}
+
+.font10 {
+	font-family: "Microsoft JhengHei";
+	font-size: 1vw;
+	font-weight: 800;
+	color: #7a736b;
+	line-height: 2vw;
+	/* 設定文字行距 */
+	letter-spacing: 0.5vw;	
+}
+
+h1 {
+	font-family: "Microsoft JhengHei";
+	font-size: 3vw;
+	font-weight: 500;
+	color: black;
+	letter-spacing: 0.3vw;
+	text-align: center;
+}
+
+p {
+	font-size: 1vw;
+	/* 設定文字大小 */
+	line-height: 1.5vw;
+	/* 設定文字行距 */
+	letter-spacing: 0.3vw;
+	/* 設定文字間距 */
+	/*background-image: url(dot.gif); /* 設定文字背景圖  */ 
+}
+/*文章列表字數格式(配合圖片大小作調整)*/
+.textformat{
+	margin-right:1vw;
+	margin-left:1.2vw;
+	margin-top:0.5vw 
+}
+.textformat2{
+	margin-right:1vw;
+	/*margin-left:1.2vw;*/
+	margin-top:0.5vw 
+}
+.textTitle{
+	margin-right:1vw;
+	margin-left:3vw; 
+}
+
+
+/*間格*/
+.firstPhotoMarin{
+	margin-left: 1vw;
+}
+
+.areaMargin {
+	margin-top: 2vw;
+}
+
+.textMargin {
+	margin-top: 3vw;
+}
+
+.photoMargin {
+	margin-top: 2vw;
+	margin-left: 1vw;
+}
+
+.articleMargin{
+	margin-right:1vw;
+	margin-left:1.2vw;
+	margin-top:0.5vw
+}
+/*標題列*/
+.place {
+	/*position: fixed;*/
+	width: 100%;
+	margin: 0 auto;
+	padding: 0 0;
+	clear: both;
+	opacity: 0.9;
+	/*z-index: 1;*/
+}
+.place2 {
+	position: fixed;
+	width: 100%;
+	margin: 0 auto;
+	padding: 0 0;
+	clear: both;
+	opacity: 0.9;
+	z-index: 1;
+	margin-left: 69%;
+}
+
+.line {
+	border-left-style: solid;
+	border-left-width: 1px;
+	margin-left: 0.5vw;
+	padding-left: 1vw;
+	border-color: #ebe8e2;
+}
+
+.nav-link {
+	color: gray !important;
+}
+
+
+/*修正空隙*/
+
+.col-sm-6,
+.col-sm-6,
+.col-md-12 {
+	padding-right: 0px;
+}
+
+.container-fluid {
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	overflow-x: hidden;
+}
+
+/*圖片暗化效果*/
+
+.blackmask {
+	width: 100%;
+	background: black;
+	height: 30vw;
+	z-index: 1;
+	opacity: 0.5;
+	line-height: 20vw;
+}
+
+/*方塊磚排版處理*/
+
+
+.bigPhoto {
+	width: 90%;
+	height: 35vw;
+}
+
+.smallPhoto {
+	width: 90%;
+	height: 16.5vw;
+}
+
+/*分隔區塊處理*/
+
+.areaPhotoSize{
+	height:22vw; 
+	width:100%; 
+	overflow:hidden;
+	background-size:cover;
+}
+.areaPhotoLocation{
+	margin: -50vw 0 0 -10vw;
+}
+
+.blackmask2 {
+	width: 100%;
+/*	background: black;*/
+	height: 40vw;
+	z-index: 1;
+	opacity: 0.8;
+	line-height: 25vw;
+}
+
+.video-container {
+position: relative;
+padding-bottom: 56.25%;
+padding-top: 30px;
+height: 0;
+overflow: hidden;
+}
+
+.video-container iframe, .video-container object, .video-container embed {
+position: absolute;
+top: 0;left: 0;
+width: 100%;
+height: 100%;
+}
+
+li,a,h5{
+	font-family: "Microsoft JhengHei";
+	/*font-weight: 500*/
+}
+
+.listText{
+	font-size: 1.5vw;
+	color: navy
+}
+.listText2{
+	font-size: 1.3vw;
+	color: #7c6853
+}
+.transMargin{
+	margin-top: 120px;
+}
+@media screen and (max-width: 992px){
+	  .transImg
+	  {
+	    width: 80%;
+	    margin-left: 10%;
+	    margin-bottom: 2%;
+	  }
+	  .include{
+	  	margin-left: 10%;
+	    margin-right: 10%;
+	  }
+	  .listText,.listText3
+	  {
+	  	line-height: 80px;
+	    font-size: 35px;
+	  }  
+	  .listText2
+	  {
+	    font-size: 35px;
+	  }    
+	  .transLogo{
+	  	width: 300px;
+	  	height: 100px;
+	  }
+	  .font{
+		font-size: 50px;
+		line-height: 100px;
+	  }
+	  .font3{
+		font-size: 50px;
+	  }
+	  .transLine{
+	  	width: 100px;
+	  	height: 100px;  	
+	  }
+	  .link{
+	  	font-size: 40px
+	  }
+	  .transMargin{
+	  	margin-top: 200px;
+	  }
+	  .btn,.form-control{
+	  	font-size: 50px;
+	  }
+	  .form-control{
+	  	margin-left: 15%
+	  }
+	  h4,.list-group{
+	  	font-size: 50px;
+	  	transform: scaleX(0.8);
+	  	letter-spacing: 0.1em!important;
+		text-align: center;
+	  }
+	  .col-3{
+	  	font-size: 50px;
+	  }
+	.articleFont_2{
+		font-size: 30px;
+	}
+	.articleFont_1{
+		font-size: 60px;
+		line-height: 70px;
+	}
+
+	.articleFont_3{
+		font-size: 45px;
+		line-height: 55px;
+	}
+	.centerCtrl{
+		text-align: center;
+		font-size: 40px
+	}
+
+	.font8{
+		font-size: 40px;
+		line-height: 50px;
+	}
+
+	.font9{
+		font-size: 40px;
+		line-height: 50px;
+	}
+	.font10{
+		text-align: center;
+		font-size: 40px;
+		line-height: 50px;	
+	}
+	.img-fluid{
+		width: 150px 	
+	}
+	.font4{
+		font-size: 60px
+	}
+
+	pre{
+		font-size: 30px;
+		/*word-wrap:break-word;*/
+	}
+	.articleformat_3{
+		margin-left: 0vw;
+	}	
+	.imgTrans{
+		width: 100%;
+		height: 100%;
+		margin: 0vw;
+	}
+
+}
+
+.list-group-item.active{
+	background-color:green;
+    border-color: green;
+}
+.textColor_1{
+	background: #ebe8e2;
+}
+.buttonColor_1{
+	background: green;
+	color: white;
+}
+
+pre {
+white-space: pre-wrap;
+word-wrap: break-word;
+
+}
+
+
+.s2-css5 {
+    /*padding: 10px;*/
+    width: 85%;
+    border: 1px solid pink;
+    /*white-space: pre-wrap;*/
+    white-space:pre;
+    /*word-wrap:break-word;*/
+    color: #555;
+    /*margin: 20px auto;*/
+}
+
+.link{
+	color: green !important;
+}
+
+a{
+	color: gray;
+}
+
+.row{
+	margin-right: 0px;
+    /*margin-left: -40PX;*/
+}
