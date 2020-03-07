@@ -1,3 +1,8 @@
+div:target:before {
+	content: "200";
+	display: block;
+	height: 300px;
+}
 /*字型相關*/
 .articleFont_1 {
 	font-family: "Microsoft JhengHei";
